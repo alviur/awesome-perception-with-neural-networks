@@ -4,6 +4,11 @@ Paper list for papers that relate artifitial neural networks with human visual p
 
 Feel free to suggest relevant papers in the following format.
 
+```markdown
+**Group Equivariant Convolutional Networks**  
+Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pdf)   
+```
+
 ### Table of Contents
 - [Equivariance and Group convolution](#equivariance-and-Group-convolution)
 - [Theory](#theory)
