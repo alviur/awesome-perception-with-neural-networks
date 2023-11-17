@@ -23,7 +23,13 @@ Taco S. Cohen, Max Welling ICML 2016 [paper](https://arxiv.org/pdf/1602.07576.pd
 
 2. **Convolutional Neural Networks Can Be Deceived by Visual Illusions**  
    Gomez-Villa, A., Martin, A., Vazquez-Corral, J., & Bertalmio, M. CVPR 2019 [paper](https://arxiv.org/pdf/1602.07576.pdf)   
-   Note: lightness/brightness & color illusions; 
+   Note: lightness/brightness & color illusions;
+
+3. **Grounding Visual Illusions in Language: Do Vision-Language Models Perceive Illusions Like Humans?**  
+   Zhang, Y., Pan, J., Yuchen, Z., Pan, R. & Chai, J. EMNLP 2023 [paper](https://arxiv.org/abs/2311.00047)   
+   Note: lightness/brightness,color, geometric, and perspective illusions;
+
+
 
 
 ### [Generation of visual illusions](#content)
