@@ -48,9 +48,25 @@ Feel free to suggest relevant papers in the following format.
    Gomez-Villa, A., Wang, K., Parraga, A. C., Twardowski, B., Malo, J., Vazquez-Corral, J., & van de Weijer, J. arXiv preprint 2024 [paper](https://arxiv.org/abs/2412.06184)   
    Note:
 
-5. **Challenging deep learning models with image distortion based on the abutting grating illusion**
-   Fan, J., & Zeng, Y. Patterns 2023 [paper](https://www.cell.com/patterns/pdf/S2666-3899(23)00026-0.pdf)   
+5. **Deep learning models for perception of brightness related illusions**
+   Mukherjee, A., Paul, A., & Ghosh, K. Applied Intelligence 2024 [paper](https://www.cell.com/patterns/pdf/S2666-3899(23)00026-0.pdf)   
    Note: Shape/contour illusions
+
+5. **Challenging deep learning models with image distortion based on the abutting grating illusion**
+   Fan, J., & Zeng, Y. Patterns 2023 [paper](https://link.springer.com/article/10.1007/s10489-024-05658-w)   
+   Note: Shape/contour illusions
+
+
+5. **A machine learning model perceiving brightness optical illusions: Quantitative evaluation with psychophysical data**
+   Kubota, Y., Hiyama, A., & Inami, M. Augmented Humans International Conference 2021 [paper](https://dl.acm.org/doi/10.1145/3458709.3458952)   
+   Note:
+
+5. **In the shadow, Neural Networks tricked by visual illusions**
+   Zeng, Z. Master of science thesis 2024 [paper](https://escholarship.org/content/qt1md2q6nq/qt1md2q6nq.pdf)   
+   Note: 3D scene reconstruction model can be deceived by shading illusions.
+
+
+
 
 
 
@@ -89,6 +105,10 @@ Feel free to suggest relevant papers in the following format.
    Roy, A., Roy, A., Mitra, S., & Ghosh, K. ICIP 2024 [paper](https://ieeexplore.ieee.org/document/10647946)   
    Note:
 
+1. **IllusionBench: A Large-scale and Comprehensive Benchmark for Visual Illusion Understanding in Vision-Language Models**  
+   Zhang, Y., Zhang, Z., Wei, X., Liu, X., Zhai, G., & Min, X. arXiv preprint 2025 [paper](https://arxiv.org/abs/2501.00848)   
+   Note:
+
 ### [Deep neural networks are similar to human visual system](#content)
 
 1. **What do deep neural networks tell us about biological vision?**  
@@ -99,7 +119,11 @@ Feel free to suggest relevant papers in the following format.
    Prokott, K. E., Tamura, H., & Fleming, R. W. Journal of Vision 2021 [paper](https://jov.arvojournals.org/article.aspx?articleid=2778109)   
    Note:
 
-   
+1. **How convolutional neural network architecture biases learned opponency and color tuning**  
+   Harris, E., Mihai, D., & Hare, J. Neural Computation 2021 [paper](https://direct.mit.edu/neco/article-abstract/33/4/858/97493/How-Convolutional-Neural-Network-Architecture)   
+   Note:
+
+
 
 
 ### [Deep neural networks are different from human visual system](#content)
@@ -128,6 +152,12 @@ Feel free to suggest relevant papers in the following format.
    Funke, C. M., Borowski, J., Stosio, K., Brendel, W., Wallis, T. S., & Bethge, M. Journal of Vision 2021 [paper](https://jov.arvojournals.org/article.aspx?articleid=2772393)
    Note:
 
+1. **Are deep neural networks adequate behavioral models of human visual perception?**  
+   Wichmann, F. A., & Geirhos, R. Annual Review of Vision Science 2023 [paper](https://www.annualreviews.org/content/journals/10.1146/annurev-vision-120522-031739)
+   Note:
+
+
+
 ### [Artificial Psychophysics](#content)
 
 1. **Psychophysics may be the game-changer for deep neural networks (DNNs) to imitate the human vision.**  
@@ -138,8 +168,16 @@ Feel free to suggest relevant papers in the following format.
    Dulay, J., Poltoratski, S., Hartmann, T. S., Anthony, S. E., & Scheirer, W. J. Proceedings of the IEEE 2024 [paper](https://ieeexplore.ieee.org/abstract/document/10496416)
    Note:
 
+1. **MindSet: Vision. A toolbox for testing DNNs on key psychological experiments**  
+   Biscione, V., Yin, D., Malhotra, G., Dujmovic, M., Montero, M. L., Puebla, G., ... & Bowers, J. S. arXiv preprint 2024 [paper](https://arxiv.org/pdf/2404.05290)
+   Note:
 
-   Chandran, K. S., Paul, A. M., Paul, A., & Ghosh, K. (2023). Psychophysics may be the game-changer for deep neural networks (DNNs) to imitate the human vision. Behavioral and Brain Sciences, 46.
+1. **Artificial perception meets psychophysics, revealing a fundamental law of illusory motion**  
+   Kobayashi, T., & Watanabe, E. arXiv preprint 2021 [paper](https://arxiv.org/pdf/2106.09979v5)
+   Note:
+
+
+
 
 
 
