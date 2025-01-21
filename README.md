@@ -67,7 +67,23 @@ Feel free to suggest relevant papers in the following format.
 
 5. **Studying Geometric Optical Illusions through the Lens of a Convolutional Neural Network**
    LaBerge, N. CMC Senior Theses 2019 [paper](https://scholarship.claremont.edu/cmc_theses/2265/)   
-   Note: 
+   Note:
+
+5. **Neural Networks Trained on Natural Scenes Exhibit Gestalt Closure**
+   Kim, B., Reif, E., Wattenberg, M. et al. Comput Brain Behav 2021 [paper](https://doi.org/10.1007/s42113-021-00100-7)   
+   Note:
+
+5. **Shared visual illusions between humans and artificial neural networks**
+   Benjamin, A., Qiu, C., Zhang, L. Q., Kording, K., & Stocker, A. Conference on Cognitive Computational Neuroscience 2019 [paper](https://ccneuro.org/2019/proceedings/0000585.pdf)   
+   Note:
+
+5. **ImageNet-trained deep neural networks exhibit illusion-like response to the Scintillating grid**
+   Sun, E. D., & Dekel, R. Journal of Vision 2021 [paper](https://jov.arvojournals.org/article.aspx?articleid=2778014)   
+   Note:
+
+5. **Exploring perceptual illusions in deep neural networks**
+   Ward, E. J. Journal of Vision 2019 [paper](https://jov.arvojournals.org/article.aspx?articleid=2749987)   
+   Note:
 
 
 
@@ -131,7 +147,13 @@ Feel free to suggest relevant papers in the following format.
    Harris, E., Mihai, D., & Hare, J. Neural Computation 2021 [paper](https://direct.mit.edu/neco/article-abstract/33/4/858/97493/How-Convolutional-Neural-Network-Architecture)   
    Note:
 
+1. **Deep Learning Networks and Visual Perception**  
+   Lindsay, G. W., & Serre, T. Oxford Research Encyclopedia of Psychology 2021 [paper](https://direct.mit.edu/neco/article-abstract/33/4/858/97493/How-Convolutional-Neural-Network-Architecture)   
+   Note:
 
+1. **Qualitative similarities and differences in visual object representations between brains and deep networks**  
+   Jacob, G., Pramod, R. T., Katti, H., & Arun, S. P. Nature communications 2021 [paper](https://www.nature.com/articles/s41467-021-22078-3)   
+   Note:
 
 
 ### [Deep neural networks are different from human visual system](#content)
@@ -164,6 +186,9 @@ Feel free to suggest relevant papers in the following format.
    Wichmann, F. A., & Geirhos, R. Annual Review of Vision Science 2023 [paper](https://www.annualreviews.org/content/journals/10.1146/annurev-vision-120522-031739)
    Note:
 
+1. **Deep learning models fail to capture the configural nature of human shape perception**  
+   Baker, N., & Elder, J. H. Iscience 2022 [paper](https://www.annualreviews.org/content/journals/10.1146/annurev-vision-120522-031739)
+   Note:
 
 
 ### [Artificial Psychophysics](#content)
@@ -185,7 +210,19 @@ Feel free to suggest relevant papers in the following format.
    Note:
 
 
+### [Aligning deep neural networks with human perception](#content)
 
+1. **Harmonizing the object recognition strategies of deep neural networks with humans**  
+   Fel, T., Rodriguez Rodriguez, I. F., Linsley, D., & Serre, T.  NeurIPS 2022 [paper](https://par.nsf.gov/servlets/purl/10400918)
+   Note:
+
+1. **Recurrent neural circuits for contour detection**  
+   Linsley, Drew, Junkyung Kim, Alekh Ashok, and Thomas Serre  ICLR 2020 [paper](https://openreview.net/forum?id=H1gB4RVKvB)
+   Note:
+
+1. **Ecological Data and Objectives for Human Alignment**  
+   Nagaraj, Akash, Alekh Karkada Ashok, Drew Linsley, Francis E. Lewis, Peisen Zhou, and Thomas Serre  ccneuro 2024 [paper](https://openreview.net/forum?id=H1gB4RVKvB)
+   Note:
 
 
 
