@@ -65,6 +65,9 @@ Feel free to suggest relevant papers in the following format.
    Zeng, Z. Master of science thesis 2024 [paper](https://escholarship.org/content/qt1md2q6nq/qt1md2q6nq.pdf)   
    Note: 3D scene reconstruction model can be deceived by shading illusions.
 
+5. **Studying Geometric Optical Illusions through the Lens of a Convolutional Neural Network**
+   LaBerge, N. CMC Senior Theses 2019 [paper](https://scholarship.claremont.edu/cmc_theses/2265/)   
+   Note: 
 
 
 
@@ -97,6 +100,10 @@ Feel free to suggest relevant papers in the following format.
 
 ### [Datasets](#content)
 
+1. **Optical illusions images dataset**  
+   Williams, R. M., & Yampolskiy, R. V. INSAM Journal of Contemporary Music, Art and Technology 2019 [paper](https://www.ceeol.com/search/article-detail?id=780738)   
+   Note:  
+
 1. **IllusionVQA: A Challenging Optical Illusion Dataset for Vision Language Models**  
    Shahgir, H. S., Sayeed, K. S., Bhattacharjee, A., Ahmad, W. U., Dong, Y., & Shahriyar, R. COLM 2024 [paper](https://illusionvqa.github.io)   
    Note:  
@@ -108,6 +115,7 @@ Feel free to suggest relevant papers in the following format.
 1. **IllusionBench: A Large-scale and Comprehensive Benchmark for Visual Illusion Understanding in Vision-Language Models**  
    Zhang, Y., Zhang, Z., Wei, X., Liu, X., Zhai, G., & Min, X. arXiv preprint 2025 [paper](https://arxiv.org/abs/2501.00848)   
    Note:
+
 
 ### [Deep neural networks are similar to human visual system](#content)
 
