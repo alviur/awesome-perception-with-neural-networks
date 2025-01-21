@@ -155,6 +155,12 @@ Feel free to suggest relevant papers in the following format.
    Jacob, G., Pramod, R. T., Katti, H., & Arun, S. P. Nature communications 2021 [paper](https://www.nature.com/articles/s41467-021-22078-3)   
    Note:
 
+1. **Deep neural networks for modeling visual perceptual learning**  
+   Wenliang, L. K., & Seitz, A. R. Journal of Neuroscience 2018 [paper](https://www.nature.com/articles/s41467-021-22078-3)   
+   Note:
+
+
+
 
 ### [Deep neural networks are different from human visual system](#content)
 
@@ -223,6 +229,13 @@ Feel free to suggest relevant papers in the following format.
 1. **Ecological Data and Objectives for Human Alignment**  
    Nagaraj, Akash, Alekh Karkada Ashok, Drew Linsley, Francis E. Lewis, Peisen Zhou, and Thomas Serre  ccneuro 2024 [paper](https://openreview.net/forum?id=H1gB4RVKvB)
    Note:
+
+1. **CYBORG: Blending human saliency into the loss improves deep learning-based synthetic face detection**  
+   Boyd, A., Tinsley, P., Bowyer, K. W., & Czajka, A.  WACV 2023 [paper](https://openaccess.thecvf.com/content/WACV2023/papers/Boyd_CYBORG_Blending_Human_Saliency_Into_the_Loss_Improves_Deep_Learning-Based_WACV_2023_paper.pdf)
+   Note:
+
+
+
 
 
 
