@@ -234,6 +234,9 @@ Feel free to suggest relevant papers in the following format.
    Boyd, A., Tinsley, P., Bowyer, K. W., & Czajka, A.  WACV 2023 [paper](https://openaccess.thecvf.com/content/WACV2023/papers/Boyd_CYBORG_Blending_Human_Saliency_Into_the_Loss_Improves_Deep_Learning-Based_WACV_2023_paper.pdf)
    Note:
 
+1. **Exploring Primitive Visual Measurement Understanding and the Role of Output Format in Learning in Vision-Language Models**  
+   Ankit Yadav, Lingqiao Liu, Yuankai Qi,  Arxiv preprint 2025 [paper](https://arxiv.org/pdf/2501.15144)
+   Note:
 
 
 
