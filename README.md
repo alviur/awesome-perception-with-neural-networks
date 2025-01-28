@@ -238,6 +238,10 @@ Feel free to suggest relevant papers in the following format.
    Ankit Yadav, Lingqiao Liu, Yuankai Qi,  Arxiv preprint 2025 [paper](https://arxiv.org/pdf/2501.15144)
    Note:
 
+1. **Can We Talk Models Into Seeing the World Differently?**  
+   Paul Gavrikov and Jovita Lukasik and Steffen Jung and Robert Geirhos and Muhammad Jehanzeb Mirza and Margret Keuper and Janis Keuper,  ICLR 2025 [paper](https://openreview.net/forum?id=iVMcYxTiVM)
+   Note:
+
 
 
 
